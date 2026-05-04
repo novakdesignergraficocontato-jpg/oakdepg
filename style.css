@@ -152,7 +152,7 @@ body {
 
 .hero {
     background: linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), 
-                url('images/hero-burger.png') center/cover;
+                url('images/oak-CHOPPS.png') center/cover;
     background-attachment: fixed;
     min-height: 100vh;
     display: flex;
